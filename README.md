@@ -16,5 +16,5 @@ This project evaluates the strength of various passwords using an online passwor
 
 ## Check out the report AT Password Security Evaluation Report 
 
-## Check out the Strong,Moderate and weak image to check how thr report generate at passwordmeter.com
+## Check out the Strong,Moderate and weak image to check how the report generate at passwordmeter.com
 
